@@ -1934,6 +1934,23 @@
                  "width":106.219,
                  "x":1211.8905,
                  "y":45.5780999999999
+                }, 
+                {
+                 "height":96,
+                 "id":38,
+                 "name":"to-factory",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/meta.holidee.fr\/@\/HOLIDEE\/factory#from-casting"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64,
+                 "x":0,
+                 "y":0
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2065,7 +2082,7 @@
          "y":0
         }],
  "nextlayerid":134,
- "nextobjectid":38,
+ "nextobjectid":39,
  "orientation":"orthogonal",
  "properties":[
         {
