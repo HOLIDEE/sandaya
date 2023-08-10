@@ -198,16 +198,6 @@
                  "value":"team"
                 }, 
                 {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre Meet 1"
-                }, 
-                {
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":false
@@ -268,16 +258,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"team"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre Meet 1"
                 }, 
                 {
                  "name":"openWebsiteClosable",
@@ -342,16 +322,6 @@
                  "value":"team"
                 }, 
                 {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre Meet 1"
-                }, 
-                {
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":false
@@ -414,16 +384,6 @@
                  "value":"team"
                 }, 
                 {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre Meet 1"
-                }, 
-                {
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":false
@@ -484,16 +444,6 @@
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
                  "value":"team"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"jitsiTriggerMessage",
-                 "type":"string",
-                 "value":"Tape 'Espace' pour rejoindre Meet 1"
                 }, 
                 {
                  "name":"openWebsiteClosable",
